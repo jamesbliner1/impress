@@ -1,0 +1,51 @@
+body {
+    background-color: #dfdfdf;
+}
+
+.box {
+    display: block;
+    width: 850px;
+    height: 600px;
+    padding: 30px 20px;
+    
+    background-color: rgb(8, 8, 8);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .1);
+    border: 1px solid rgba(0, 0, 0, .3);
+    border-radius: 20px;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+    font-family: Arial, sans-serif;
+    font-size: 35px;
+    color: rgb(208, 16, 16);
+}
+
+.fondo1{
+    width:1024px;
+    height: 768px;
+    padding: 30px 50px;
+    
+    /* background-color: rgb(54, 169, 236); */
+}
+.imagen1{
+    background-image: url('http://localhost/impress//imj/james2.jpg');
+}
+.imagen2 {
+    background-image: url('http://localhost/impress//imj/fondo2.jpg');
+    
+}
+h3 {
+   color: deepskyblue; 
+}
+.fondo1 h5{
+    font-size: 5;
+    color: blue;
+}
+.fondo1 h1 {
+    font-size: 12;
+    color: rgb(255, 0, 8);
+    text-align: center;
+}
+
+a#james1 {
+    font-size: 30px;
+    color: rgb(57, 38, 25);
+}
